@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-using LBV_GTM_Basics.Models;
+using LBV_Basics.Models;
 
 namespace LBV_GTM_Database_API.Data
 {

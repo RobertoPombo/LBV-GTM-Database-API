@@ -1,4 +1,4 @@
-﻿using LBV_GTM_Basics.Models.Common;
+﻿using LBV_Basics.Models.Common;
 
 namespace LBV_GTM_Database_API.Services.Interfaces
 {

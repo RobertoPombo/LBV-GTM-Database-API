@@ -4,8 +4,8 @@ using LBV_GTM_Database_API.Data;
 using LBV_GTM_Database_API.Services;
 using LBV_GTM_Database_API.Services.Interfaces;
 using LBV_GTM_Database_API.EfcContext;
-using LBV_GTM_Basics.Configs;
-using LBV_GTM_Basics;
+using LBV_Basics.Configs;
+using LBV_Basics;
 
 
 

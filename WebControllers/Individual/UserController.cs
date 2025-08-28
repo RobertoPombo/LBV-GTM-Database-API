@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-using LBV_GTM_Basics.Models;
+using LBV_Basics.Models;
 using LBV_GTM_Database_API.Services;
-using LBV_GTM_Basics.Models.DTOs;
+using LBV_Basics.Models.DTOs;
 
 namespace LBV_GTM_Database_API.Controllers
 {

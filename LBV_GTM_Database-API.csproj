@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LBV-GTM-Basics\LBV_GTM_Basics.csproj" />
+    <ProjectReference Include="..\LBV-Basics\LBV_Basics.csproj" />
   </ItemGroup>
 
 </Project>

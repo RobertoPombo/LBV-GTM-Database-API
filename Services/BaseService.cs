@@ -1,8 +1,8 @@
 ﻿using System.Reflection;
 
-using LBV_GTM_Basics;
-using LBV_GTM_Basics.Models.Common;
-using LBV_GTM_Basics.Models.DTOs;
+using LBV_Basics;
+using LBV_Basics.Models.Common;
+using LBV_Basics.Models.DTOs;
 using LBV_GTM_Database_API.Services.Interfaces;
 
 namespace LBV_GTM_Database_API.Services
