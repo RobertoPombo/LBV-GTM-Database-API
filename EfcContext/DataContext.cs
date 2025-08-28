@@ -7,7 +7,7 @@ namespace LBV_GTM_Database_API.Data
     public class DataContext(DbContextOptions<DataContext> options) : DbContext(options)
     {
         public DbSet<User> Users { get; set; }
-        public DbSet<Ticket> Roles { get; set; }
+        public DbSet<Ticket> Tickets { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
