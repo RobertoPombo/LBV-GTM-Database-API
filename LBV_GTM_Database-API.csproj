@@ -14,4 +14,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LBV-GTM-Basics\LBV_GTM_Basics.csproj" />
+  </ItemGroup>
+
 </Project>
